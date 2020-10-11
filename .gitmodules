@@ -1,0 +1,6 @@
+[submodule "bash-timer"]
+	path = bash-timer
+	url = ssh://aur@aur.archlinux.org/bash-timer.git
+[submodule "nrf-udev"]
+	path = nrf-udev
+	url = ssh://aur@aur.archlinux.org/nrf-udev.git

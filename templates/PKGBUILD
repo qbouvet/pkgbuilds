@@ -1,0 +1,28 @@
+ 
+# Maintainer: Quentin Bouvet <qbouvet at outlook dot com>
+pkgname=
+pkgver=
+pkgrel=
+pkgdesc=""
+arch=('any')
+url=""
+license=('')
+makedepends=('')
+depends=('')
+
+source=("${pkgname}-${pkgver}::https://github.com/.../.../archive/v${pkgver}.tar.gz")
+#install=${pkgname}.install
+sha256sums=('...')
+
+#build() {
+#    
+#}
+
+package() {
+    cd "$srcdir"/"$_name-$pkgver"
+    python setup.py install --root="$pkgdir" --optimize=1
+}
+
+#
+# makepkg --printsrcinfo > .SRCINFO
+#

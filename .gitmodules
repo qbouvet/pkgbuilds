@@ -13,3 +13,6 @@
 [submodule "bash-preexec"]
 	path = bash-preexec
 	url = ssh://aur@aur.archlinux.org/bash-preexec.git
+[submodule "undistract-me"]
+	path = undistract-me
+	url = ssh://aur@aur.archlinux.org/undistract-me.git

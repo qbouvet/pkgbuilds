@@ -1,8 +1,8 @@
  # pkgbuilds
 
- Some AUR packages I maintain. Feel free to _flag out-of-date_ via the [AUR](https://aur.archlinux.org/packages/?SeB=m&K=qbvt), or open Issues / Pull requests here. 
+My [AUR packages](https://aur.archlinux.org/packages/?SeB=m&K=qbvt). You cannot access the submodules via git (ssh key needed), but you can take a look at the PKGBUILD files in the [AUR](https://aur.archlinux.org/packages/?SeB=m&K=qbvt) and flag packages _out-of-date_ over there, or open Issues here.
 
- Following links are for my convenience:
+Link for my convenience:
  * [PKGBUILDs](https://wiki.archlinux.org/index.php/PKGBUILD)  
  * [Makepkg](https://wiki.archlinux.org/index.php/Makepkg)  
  * [Creating packages](https://wiki.archlinux.org/index.php/Creating_packages)  

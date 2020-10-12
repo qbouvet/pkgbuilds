@@ -10,3 +10,6 @@
 [submodule "python-wpm"]
 	path = python-wpm
 	url = ssh://aur@aur.archlinux.org/python-wpm.git
+[submodule "bash-preexec"]
+	path = bash-preexec
+	url = ssh://aur@aur.archlinux.org/bash-preexec.git

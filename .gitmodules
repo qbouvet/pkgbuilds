@@ -4,3 +4,6 @@
 [submodule "nrf-udev"]
 	path = nrf-udev
 	url = ssh://aur@aur.archlinux.org/nrf-udev.git
+[submodule "bash-command-timer-git"]
+	path = bash-command-timer-git
+	url = ssh://aur@aur.archlinux.org/bash-command-timer-git.git

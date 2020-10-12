@@ -7,3 +7,6 @@
 [submodule "bash-command-timer-git"]
 	path = bash-command-timer-git
 	url = ssh://aur@aur.archlinux.org/bash-command-timer-git.git
+[submodule "python-wpm"]
+	path = python-wpm
+	url = ssh://aur@aur.archlinux.org/python-wpm.git

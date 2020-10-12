@@ -13,3 +13,6 @@
 [submodule "bash-preexec"]
 	path = bash-preexec
 	url = ssh://aur@aur.archlinux.org/bash-preexec.git
+[submodule "bash-timer-temp"]
+	path = bash-timer-temp
+	url = https://aur.archlinux.org/bash-timer.git

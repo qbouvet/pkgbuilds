@@ -16,3 +16,6 @@
 [submodule "undistract-me"]
 	path = undistract-me
 	url = ssh://aur@aur.archlinux.org/undistract-me.git
+[submodule "file-roller-kde-service-menu"]
+	path = file-roller-kde-service-menu
+	url = ssh://aur@aur.archlinux.org/file-roller-kde-service-menu.git

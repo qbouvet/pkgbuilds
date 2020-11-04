@@ -19,3 +19,9 @@
 [submodule "file-roller-kde-service-menu"]
 	path = file-roller-kde-service-menu
 	url = ssh://aur@aur.archlinux.org/file-roller-kde-service-menu.git
+[submodule "dolphin-squashfs-mount"]
+	path = dolphin-squashfs-mount
+	url = ssh://aur@aur.archlinux.org/dolphin-squashfs-mount.git
+[submodule "checksum-blister-kde-service-menu-git"]
+	path = checksum-blister-kde-service-menu-git
+	url = ssh://aur@aur.archlinux.org/checksum-blister-kde-service-menu-git.git

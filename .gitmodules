@@ -25,3 +25,6 @@
 [submodule "checksum-blister-kde-service-menu-git"]
 	path = checksum-blister-kde-service-menu-git
 	url = ssh://aur@aur.archlinux.org/checksum-blister-kde-service-menu-git.git
+[submodule "libstrangle"]
+	path = libstrangle
+	url = ssh://aur@aur.archlinux.org/libstrangle.git

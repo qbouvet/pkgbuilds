@@ -1,30 +1,30 @@
 [submodule "bash-command-timer-git"]
 	path = bash-command-timer-git
-	url = git@github.com:qbouvet/pkgbuild-bash-command-timer-git.git
+	url = git@github.com:qbouvet/pkgbuilds-bash-command-timer-git.git
 [submodule "bash-preexec"]
 	path = bash-preexec
 	url = git@github.com:qbouvet/pkgbuids-bash-preexec.git
 [submodule "bash-timer"]
 	path = bash-timer
-	url = ssh://aur@aur.archlinux.org/bash-timer.git
-[submodule "nrf-udev"]
-	path = nrf-udev
-	url = ssh://aur@aur.archlinux.org/nrf-udev.git
-[submodule "python-wpm"]
-	path = python-wpm
-	url = ssh://aur@aur.archlinux.org/python-wpm.git
-[submodule "undistract-me"]
-	path = undistract-me
-	url = ssh://aur@aur.archlinux.org/undistract-me.git
-[submodule "file-roller-kde-service-menu"]
-	path = file-roller-kde-service-menu
-	url = ssh://aur@aur.archlinux.org/file-roller-kde-service-menu.git
-[submodule "dolphin-squashfs-mount"]
-	path = dolphin-squashfs-mount
-	url = ssh://aur@aur.archlinux.org/dolphin-squashfs-mount.git
+	url = git@github.com:qbouvet/pkgbuids-bash-timer.git
 [submodule "checksum-blister-kde-service-menu-git"]
 	path = checksum-blister-kde-service-menu-git
-	url = ssh://aur@aur.archlinux.org/checksum-blister-kde-service-menu-git.git
+	url = git@github.com:qbouvet/pkgbuilds-checksum-blister-kde-service-menu-git.git
+[submodule "dolphin-squashfs-mount"]
+	path = dolphin-squashfs-mount
+	url = git@github.com:qbouvet/pkgbuilds-dolphin-squashfs-mount.git
+[submodule "file-roller-kde-service-menu"]
+	path = file-roller-kde-service-menu
+	url = git@github.com:qbouvet/pkgbuilds-file-roller-kde-service-menu.git
 [submodule "libstrangle"]
 	path = libstrangle
-	url = ssh://aur@aur.archlinux.org/libstrangle.git
+	url = git@github.com:qbouvet/pkgbuilds-libstrangle.git
+[submodule "nrf-udev"]
+	path = nrf-udev
+	url = git@github.com:qbouvet/pkgbuilds-nrf-udev.git
+[submodule "python-wpm"]
+	path = python-wpm
+	url = git@github.com:qbouvet/pkgbuilds-python-wpm.git
+[submodule "undistract-me"]
+	path = undistract-me
+	url = git@github.com:qbouvet/pkgbuilds-undistract-me.git

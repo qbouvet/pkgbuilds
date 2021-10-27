@@ -1,6 +1,9 @@
 [submodule "bash-command-timer-git"]
 	path = bash-command-timer-git
 	url = git@github.com:qbouvet/pkgbuild-bash-command-timer-git.git
+[submodule "bash-preexec"]
+	path = bash-preexec
+	url = git@github.com:qbouvet/pkgbuids-bash-preexec.git
 [submodule "bash-timer"]
 	path = bash-timer
 	url = ssh://aur@aur.archlinux.org/bash-timer.git
@@ -10,9 +13,6 @@
 [submodule "python-wpm"]
 	path = python-wpm
 	url = ssh://aur@aur.archlinux.org/python-wpm.git
-[submodule "bash-preexec"]
-	path = bash-preexec
-	url = ssh://aur@aur.archlinux.org/bash-preexec.git
 [submodule "undistract-me"]
 	path = undistract-me
 	url = ssh://aur@aur.archlinux.org/undistract-me.git

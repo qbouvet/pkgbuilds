@@ -1,6 +1,8 @@
  # pkgbuilds
 
-My [AUR packages](https://aur.archlinux.org/packages/?SeB=m&K=qbvt). You cannot access the submodules via git (ssh key needed), but you can take a look at the PKGBUILD files in the [AUR](https://aur.archlinux.org/packages/?SeB=m&K=qbvt) and flag packages _out-of-date_ over there, or open Issues here.
+My [AUR packages](https://aur.archlinux.org/packages/?SeB=m&K=qbvt). 
+
+Each package has a mirror on github that is added as a submodule. Feel free to take a look, open an issues, open a PR, ...
 
 Link for my convenience:
  * [PKGBUILDs](https://wiki.archlinux.org/index.php/PKGBUILD)  

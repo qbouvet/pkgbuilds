@@ -2,7 +2,7 @@
 
 My [AUR packages](https://aur.archlinux.org/packages/?SeB=m&K=qbvt). 
 
-Each package has a mirror on github that is added as a submodule. Feel free to take a look, open an issues, open a PR, ...
+Each package is added as a submodule via a mirror on github, so you can browse each of them. Feel free to take a look, open an issues, open a PR, ...
 
 Link for my convenience:
  * [PKGBUILDs](https://wiki.archlinux.org/index.php/PKGBUILD)  

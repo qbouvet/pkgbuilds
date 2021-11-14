@@ -1,5 +1,5 @@
 [submodule "almond"]
-	path = almond
+	path = almond2
 	url = git@github.com:qbouvet/pkgbuilds-almond.git
 [submodule "bash-command-timer-git"]
 	path = bash-command-timer-git

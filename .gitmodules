@@ -28,3 +28,6 @@
 [submodule "undistract-me"]
 	path = undistract-me
 	url = git@github.com:qbouvet/pkgbuilds-undistract-me.git
+[submodule "almond"]
+	path = almond
+	url = ssh://aur@aur.archlinux.org/almond.git

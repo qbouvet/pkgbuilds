@@ -1,6 +1,3 @@
-[submodule "almond"]
-	path = almond2
-	url = git@github.com:qbouvet/pkgbuilds-almond.git
 [submodule "bash-command-timer-git"]
 	path = bash-command-timer-git
 	url = git@github.com:qbouvet/pkgbuilds-bash-command-timer-git.git
